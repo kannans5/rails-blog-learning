@@ -1,5 +1,5 @@
 # README
 
-Testing git hook
+Testing git hook 1
 
 * ...
