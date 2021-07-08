@@ -1,5 +1,4 @@
 # README
 
-Testing git hook
 
 * ...
